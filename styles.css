@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+body > table > thead th{
+	height:500px;
+}
+
+table,tr,th,td{
+	border:solid;
+}
